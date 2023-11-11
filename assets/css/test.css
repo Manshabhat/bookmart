@@ -1,0 +1,356 @@
+.l1
+{
+    color: #ef233c;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-left: 5rem;
+
+}
+.l2{
+    font-weight: bold;
+    font-size: 1.5rem;  
+}
+
+.swiper {
+    width: 100%;
+    height: 500px;
+  }
+
+.s1{
+    background: url(../images/banner1.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.card-body
+{
+    text-align: center;
+    background-color:rgb(222, 215, 215);
+    height: 100px;
+    
+}
+.ban-5{
+    background: url(../images/banner5.jpg);
+    height: 310px;
+    border-radius: 5px;
+    background-size: cover;
+    background-position: center;
+
+}
+.ban-5 h1
+{
+color: white;
+}
+.ban-6
+{
+    background: url(../images/banner4.jpg);
+    height: 310px;
+    border-radius: 5px;
+    background-size: cover;
+    background-position: center;
+
+}
+.ban-6 h1
+{
+    color: white;
+
+}
+.o2
+{
+width: 200px;
+height: 60px;
+color: white;
+font-weight: bold;
+border: solid white 1px;
+    
+}
+.o3
+{
+    width: 200px;
+height: 60px;
+color: white;
+font-weight: bold;
+border: solid white 1px;
+
+}
+.o3:hover
+{
+    background-color: #ef233c;
+    border: solid #ef233c 1px;
+}
+.o2:hover
+{
+    background-color: #ef233c;
+    border: solid #ef233c 1px;   
+}
+.tr{
+    font-weight: bold;
+    font-size: 1.5rem;
+    
+}
+.swiper-slide:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 1) 100%);
+}
+
+#abcd:before {
+    content: "";
+    height: 30rem;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 1) 100%);
+
+}
+
+
+
+.og{
+    background-color: #ef233c;
+    color: white;
+    font-weight: bold;
+}
+.upto
+{
+    color: #ef233c;
+    font-size: 1.5rem;
+}
+.s2{
+    background: url(../images/book1.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 5rem;
+    
+}
+.s3{
+    background: url(../images/book2.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 5rem;
+}
+.s4{
+    background: url(../images/book3.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 5rem;
+}
+.s5{
+    background: url(../images/book4.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 5rem;
+
+}
+.btn-orange
+{
+    width: 100px;
+    background-color:#ef233c;
+    color: white;
+    font-weight: bold;
+}
+.h
+{
+margin-top: .90rem;
+margin-left: 1rem;
+}
+.m{
+    margin-top: .95rem;
+    font-size: 2rem;
+    margin-right: 2rem;
+}
+.title-hero-19
+{
+    color: white;
+    font-weight: bold;
+    font-size: 4rem;
+}
+.swiper-slide p{
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+h1
+{
+    font-weight: bold;
+    font-size: 2rem;
+    
+}
+h3
+{
+    font-weight: normal;
+     font-size: 1.3rem;
+     
+}
+.i:hover
+{
+    text-decoration: none;
+  color: red;
+  cursor: pointer;
+}
+.d1
+{
+    
+    background-size: cover;
+     border-radius: 7px;
+    height: 180px;
+    
+}
+.d2
+{
+    background-size: cover;
+     border-radius: 7px;
+    height: 180px;
+}
+.d3
+{
+    background-size: cover;
+    border-radius: 7px;
+   height: 180px;
+}
+.d4
+{
+    background-size: cover;
+    border-radius: 7px;
+   height: 180px;
+}
+#banner5
+{
+
+height:30rem;
+background: url(../images/banner5.jpg);
+background-position: center;
+background-size: cover;
+
+}
+.v
+{
+  text-align: center;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 6rem;
+  font-size: 7rem;
+  color: whitesmoke;
+}
+
+.d5
+{
+    background-size: cover;
+    border-radius: 7px;
+   height: 180px;
+}
+.d6
+{
+    background-size: cover;
+    border-radius: 7px;
+   height: 180px;
+   
+}
+.z{
+    margin-top: 30rem;
+    height: 47rem;
+}
+.z h1
+{
+    font-size: 3.5rem;
+}
+.z h5
+{
+    color: gray;
+}
+
+
+.sp
+{
+display: flex;
+}
+
+.p1
+{
+    background: url(../images/shop-1.jpg);
+    background-size: cover;
+    border-radius: 3px;
+    height: 400px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 21.30rem;
+   
+   
+}
+.z h3{
+    padding-top: 2rem;
+}
+.p2
+{
+    background: url(../images/shop-2.jpg);
+    background-size: cover;
+    border-radius: 3px;
+   height: 400px;
+   padding-top: 21.30rem;
+   padding-left: 0;
+    padding-right: 0;
+}
+.p3
+{
+    background: url(../images/shop-3.jpg);
+    background-size: cover;
+    border-radius: 3px;
+   height: 400px;
+  padding-top: 21.30rem;
+   padding-left: 0;
+    padding-right: 0;
+}
+.p4
+{
+    background: url(..//images/shop-4.jpg);
+    margin-top: 2.5rem;
+    background-size: cover;
+    border-radius: 3px;
+   height: 400px;
+  padding-top: 21.30rem;
+   padding-left: 0;
+    padding-right: 0;
+}
+#banner9
+{
+
+height:30rem;
+background: url(../images/banner3.jpg);
+background-position: center;
+background-size: cover;
+
+}
+#abcd:before {
+    content: "";
+    height: 30rem;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 0) 45%, rgba(0, 0, 0, 1) 100%);
+
+}
+
+  
+
+
+
+
+
